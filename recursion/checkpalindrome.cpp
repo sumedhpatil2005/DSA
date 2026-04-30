@@ -8,6 +8,6 @@ bool f(int i,string s){
 }
 
 int main(){
-    string s ="madam";
+    string s ="madsm";
     cout<<f(0,s);
 }
