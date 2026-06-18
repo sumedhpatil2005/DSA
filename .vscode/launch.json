@@ -2,6 +2,41 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "reverse",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "string",
+      "request": "launch",
+      "mainClass": "string",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "recursionsum",
+      "request": "launch",
+      "mainClass": "recursionsum",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "recursion",
+      "request": "launch",
+      "mainClass": "recursion",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
