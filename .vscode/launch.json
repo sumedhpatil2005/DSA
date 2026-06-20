@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "reversewords",
+      "request": "launch",
+      "mainClass": "reversewords",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "validdrome",
+      "request": "launch",
+      "mainClass": "validdrome",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "removedup",
+      "request": "launch",
+      "mainClass": "removedup",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
       "name": "characterFre",
       "request": "launch",
       "mainClass": "characterFre",
