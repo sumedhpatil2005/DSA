@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "characterFre",
+      "request": "launch",
+      "mainClass": "characterFre",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "words",
+      "request": "launch",
+      "mainClass": "words",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "occu",
+      "request": "launch",
+      "mainClass": "occu",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "vowels",
+      "request": "launch",
+      "mainClass": "vowels",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
       "name": "reverse",
       "request": "launch",
       "mainClass": "reverse",
