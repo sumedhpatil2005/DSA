@@ -21,6 +21,7 @@ public class characterFre {
             System.out.println(ch);
          
           }
+          
 
 
            

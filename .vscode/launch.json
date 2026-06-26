@@ -3,6 +3,132 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sorted",
+      "request": "launch",
+      "mainClass": "Injava.array.sorted",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "removeduplicate",
+      "request": "launch",
+      "mainClass": "Injava.array.removeduplicate",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "movezeros",
+      "request": "launch",
+      "mainClass": "Injava.array.movezeros",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "frequency",
+      "request": "launch",
+      "mainClass": "Injava.array.frequency",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "reversearray",
+      "request": "launch",
+      "mainClass": "Injava.array.reversearray",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "secondlargest",
+      "request": "launch",
+      "mainClass": "Injava.array.secondlargest",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "maxelement",
+      "request": "launch",
+      "mainClass": "Injava.array.maxelement",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "traversal",
+      "request": "launch",
+      "mainClass": "Injava.array.traversal",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "Reverselinkedlist",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.Reverselinkedlist",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "cycledetection",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.cycledetection",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "nodeflast",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.nodeflast",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "middle",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.middle",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "deletelastnode",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.deletelastnode",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "deletenode",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.deletenode",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "addinbetween",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.addinbetween",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "inserend",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.inserend",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "searchnode",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.searchnode",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
+      "name": "basicnode",
+      "request": "launch",
+      "mainClass": "Injava.Linkedlist.basicnode",
+      "projectName": "DSA_dcce99fe"
+    },
+    {
+      "type": "java",
       "name": "reversewords",
       "request": "launch",
       "mainClass": "reversewords",
